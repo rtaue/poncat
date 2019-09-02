@@ -31,6 +31,6 @@ PonCat gameplay video: https://youtu.be/mmz2JvaX3JM
 Link to download: https://drive.google.com/open?id=1tfgWGH3-8OF4n-VBhWlQ8RMWuN0e7t6I
 
 ## Authors
-- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.carbonmade.com/) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
+- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.com) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
 - **Laís Rodrigues** - Game Designer and Artist - [ArtStation](https://www.artstation.com/marim) - [LinkedIn](https://www.linkedin.com/in/la%C3%ADs-rodrigues-548261149/)
 
